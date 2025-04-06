@@ -1,0 +1,4 @@
+{
+    "typescript.experimental.expandableHover": false,
+    "notebook.cellToolbarVisibility": "hover"
+}
